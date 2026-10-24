@@ -1,3 +1,12 @@
+---
+name: borderstamp.com
+description: Redirects borderstamp.com to the Borderstamp page on xerodonia.com, using GitHub Pages and no JavaScript.
+version: "Not available"
+readmeUpdated: 2026-10-24
+tags:
+  - Website
+---
+
 # borderstamp.com
 
 Redirects `borderstamp.com` to <https://xerodonia.com/apps/borderstamp/>.
